@@ -26,3 +26,6 @@ PER IL COMPUTER, STABILISCI IL VINCITORE CHE FA IL PUNTEGGIO PIU ALTO.
     computers<br>
     6.1 - stampo a video un messaggio: "Ci dispiace hai perso, il computer<br>
     questa volta ti ha battuto!"
+7 - :ALTRIMENTI se i numeri ottenuti da utente e computer sono uguali<br>
+    7.1 - stampo a video il messaggio: "Un Pareggio! Ritenta la prossima volta<br>
+    sarai piu' fortunato"
