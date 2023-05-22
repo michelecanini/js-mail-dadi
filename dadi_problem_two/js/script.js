@@ -16,7 +16,7 @@ let button = document.getElementById('submit').addEventListener('click', functio
     let message = "Un Pareggio! Ritenta la prossima volta sarai piu' fortunato";
 
     if(you_score > computer_score){
-        message = ("Complimenti hai Vinto");
+        message = ("Complimenti hai Vinto!");
     } 
     else if (you_score < computer_score){
         message = ("Ci dispiace hai perso, il Computer questa volta ti ha battuto!");
