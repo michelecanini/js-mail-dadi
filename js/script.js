@@ -8,3 +8,10 @@ console.log(user_list)
 for(let i=0; i<user_list.length; i++){
     console.log(user_list[i])
 }
+
+let button = document.getElementById('submit').addEventListener('click', function(){
+    let email = document.getElementById('email').value;
+    console.log(email)
+})
+    
+    
